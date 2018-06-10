@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\bin\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.deps.json
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\bin\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.runtimeconfig.json
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\bin\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.runtimeconfig.dev.json
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\bin\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.dll
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\bin\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.pdb
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\obj\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.csprojResolveAssemblyReference.cache
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\obj\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\obj\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\obj\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.AssemblyInfo.cs
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\obj\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.dll
+C:\Users\micha\source\repos\ToutDeSuiteOuPlusTard\ToutDeSuiteOuPlusTard\obj\Debug\netcoreapp2.0\ToutDeSuiteOuPlusTard.pdb
